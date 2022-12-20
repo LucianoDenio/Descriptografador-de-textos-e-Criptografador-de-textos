@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+header{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-decodificado{
+    width: 400px;
+    height: 944px;
+    background-color: beige;
+}
+
+.container-text{
+    width: 680px;
+    height: 48px;
+    font-size: 32px;
+}
